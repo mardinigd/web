@@ -145,8 +145,7 @@
     transition: .5s;
 }
 
-.sticky-top .navbar-light .navbar-brand img {
-    max-height: 150px;
+
 }
 
 .navbar .dropdown-toggle::after {
